@@ -1,7 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
-> **Support this project* All donations go towards your chosen charity. All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name can be added to the official donor list for this project on GitHub. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected! :). As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :)
-
 # Automatisch - Open Source Zapier Alternative
 
 ![Automatisch - Screenshot](https://user-images.githubusercontent.com/2501931/191562539-e42f6c34-03c7-4dc4-bcf9-7f9473a9c64f.png)
@@ -46,12 +44,6 @@ For other installation types, you can check the [installation](https://automatis
 - [Discord](https://discord.gg/dJSah9CVrC)
 - [Twitter](https://twitter.com/automatischio)
 
-## Support
-
-If you have any questions or problems, please visit our GitHub issues page, and we'll try to help you as soon as possible.
-
-[https://github.com/automatisch/automatisch/issues](https://github.com/automatisch/automatisch/issues)
-
 ## License
 
 Automatisch Community Edition (Automatisch CE) is an open-source software with the [AGPL-3.0 license](LICENSE.agpl).
@@ -63,3 +55,7 @@ The Automatisch repository contains both AGPL-licensed and Enterprise-licensed f
 All files that contain ".ee." in their name fall under the [Enterprise license](LICENSE.enterprise). All other files fall under the [AGPL-3.0 license](LICENSE.agpl).
 
 See the [LICENSE](LICENSE) file for more information.
+
+## Support This Project
+
+Support this project! All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected!
