@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/UbPRh74PzV)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
 # Automatisch - Open Source Zapier Alternative
@@ -41,7 +43,7 @@ For other installation types, you can check the [installation](https://automatis
 
 ## Community Links
 
-- [Discord](https://discord.gg/dJSah9CVrC)
+- [Discord](https://discord.gg/UbPRh74PzV)
 - [Twitter](https://twitter.com/automatischio)
 
 ## License
