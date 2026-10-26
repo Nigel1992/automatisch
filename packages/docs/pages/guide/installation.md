@@ -110,4 +110,4 @@ If you need to change any other environment variables for your production setup,
 
 ## Let's discover!
 
-If you see any problems while installing Automatisch, let us know via [github issues](https://github.com/automatisch/automatisch/issues) or our [discord server](https://discord.gg/dJSah9CVrC).
+If you see any problems while installing Automatisch, let us know via [github issues](https://github.com/automatisch/automatisch/issues) or our [![Discord](https://img.shields.io/discord/1468295714961494029?color=7289da&label=Join%20Our%20Discord&logo=discord&logoColor=white&style=for-the-badge)]([![Discord](https://img.shields.io/discord/1468295714961494029?color=7289da&label=Join%20Our%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/UbPRh74PzV)).

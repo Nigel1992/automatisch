@@ -591,7 +591,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/automatisch/automatisch' },
       { icon: 'twitter', link: 'https://twitter.com/automatischio' },
-      { icon: 'discord', link: 'https://discord.gg/dJSah9CVrC' },
+      { icon: 'discord', link: 'https://discord.gg/UbPRh74PzV' },
     ],
     editLink: {
       pattern:
